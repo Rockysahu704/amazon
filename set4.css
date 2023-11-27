@@ -1,0 +1,99 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+body{
+    background-color: burlywood;
+}
+#mainDiv{
+
+    width: 1350px;
+    height: 40px;
+    background-color: #0f1111;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    margin-top: 5;
+}
+
+#link{
+
+    width: 70px;
+    text-decoration: none;
+    color: orange;
+    font-size: 20px;
+    margin-left: 4px;
+       
+}
+
+
+
+#account{
+    color: white;
+    margin-left: 100px ;
+    margin-top: 0px;
+    margin-right: 200px;
+    text-decoration: none;
+}
+#myCart{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+#contactUs{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+#searchA{
+    color: gray;
+    width: 160px;
+    background-color: white;
+}
+#search{
+    color: yellow;
+    width: 60px;
+    background-color: orange;
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: 3px solid red;
+    display: inline-block;
+    margin-left: 11px;
+    margin-top: 10px;
+    
+   
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+#privacy{
+    color: white;
+    text-align: center;
+
+}
+.nav_a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+img{
+    height: 100px;
+    width: 100px;
+}
+figcaption{
+    color: red;
+}
+
